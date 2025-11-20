@@ -1,7 +1,8 @@
 ---
-title: Project
+title: blog
 layout: blog
 ---
+
 
 
 
