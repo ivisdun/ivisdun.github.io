@@ -37,17 +37,10 @@ disqus-shortname: thedevslot
 author-name: YUTONG DUN
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
-# education:
-  - university: "University of Edinburgh"
-    degree: "MA Interior, Architecture and Spatial Design"
-    period: "2024-2025"
-    courses: "Interior Architectural Detailing, Small-scale Urban Intervention, Lighting Design"
-  - university: "Beijing Forestry University" 
-    degree: "Bachelor of Environmental Design"
-    period: "2020-2024"
-    courses: "Architectural Interior Drafting, Interior Design, Architectural Design, Landscape Design"
 # 60 Words About the Author
-author-about: An interior and spatial designer with a strong interest in adaptive reuse and the emotional connection between people and space. My design practice focuses on transforming existing structures and forgotten urban sites into spaces that evoke memory,interaction, and inclusivity. I value material honesty, sensory experience, and sustainable design approaches that respect both the past and the environment.
+author-about: MA Interior, Architecture and Spatial Design-University of Edinburgh
+BA Environmental Design-Beijing Forestry University"
+An interior and spatial designer with a strong interest in adaptive reuse and the emotional connection between people and space. My design practice focuses on transforming existing structures and forgotten urban sites into spaces that evoke memory,interaction, and inclusivity. I value material honesty, sensory experience, and sustainable design approaches that respect both the past and the environment.
 author-url: "https://ivisdun.github.io"
 location: "SHENZHEN, CHINA"
 
@@ -99,6 +92,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
 
 
 
